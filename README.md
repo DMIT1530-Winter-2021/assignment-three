@@ -2,9 +2,9 @@
 Weight: 20%
 
 **Late assignments will NOT be accepted!**
+---
 
 [Github Classroom Link: https://classroom.github.com/a/BooYuMDQ](https://classroom.github.com/a/BooYuMDQ)
----
 ## Introduction
 
 Assignment 3 is a two-page, fully responsive build with a sticky header, horizontal scrolling content, a parallax scroll background, and semantic forms. 
