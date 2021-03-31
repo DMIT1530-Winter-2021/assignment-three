@@ -1,5 +1,6 @@
 # Assignment 3
 Weight: 20%
+
 **Late assignments will NOT be accepted!**
 
 ## Introduction
