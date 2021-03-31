@@ -3,6 +3,7 @@ Weight: 20%
 
 **Late assignments will NOT be accepted!**
 
+[Github Classroom Link: https://classroom.github.com/a/BooYuMDQ](https://classroom.github.com/a/BooYuMDQ)
 ---
 ## Introduction
 
