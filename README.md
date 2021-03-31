@@ -1,4 +1,6 @@
 # Assignment 3
+Weight: 20%
+**Late assignments will NOT be accepted!**
 
 ## Introduction
 
@@ -15,3 +17,16 @@ Following the steps of a build methodology:
 2.	Markup all form elements semantically and using the most appropriate input types and attributes. Form elements should be accessible with linked labels and inputs. Use attributes such as disabled, autofocus, name, autocomplete, placeholder, required, minlength, and maxlength logically and where necessary. 
 
 3.	Once both pages have been semantically marked-up, outline checked, and validated for errors, the student will add the necessary CSS styling required to best match the look and layout of the PSD.
+
+### Things to note regarding styling:
+
+1.	The header element is a ‘sticky’ element. When scrolling the header element will always stay on the top of the page. The horizontal scroll area can be swiped to move on touch screens. Once there is enough space to fully display all of that content (no overflow), it will no longer scroll. The heading with a background image on the second page will have a parallax scroll effect.
+
+2.	The typography is consistence throughout both pages, therefore, there is an advantage to using global styling with the text elements. Optimize all images to the best file size.
+
+3.	Style the form and form elements to best match the PSD. Elements such as checkboxes, radio buttons, and select elements are styled by the browser and cannot be easily overwritten by CSS. The form has styling for both valid and invalid states.
+
+4.	Style the mobile (smallest) screens first. The content will need to fit a screen size starting at 320px wide. The content is fluid and will grow to fill the screen size as it increases. Two media queries will be required to adjust the layout on wider screens. At the larger screen width, the content will no longer be fluid (stretching edge to edge) and will instead be contained in a centered, fixed width container.
+
+For any clarification or questions, please ask your instructor.
+
