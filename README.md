@@ -3,6 +3,7 @@ Weight: 20%
 
 **Late assignments will NOT be accepted!**
 
+---
 ## Introduction
 
 Assignment 3 is a two-page, fully responsive build with a sticky header, horizontal scrolling content, a parallax scroll background, and semantic forms. 
@@ -30,4 +31,8 @@ Following the steps of a build methodology:
 4.	Style the mobile (smallest) screens first. The content will need to fit a screen size starting at 320px wide. The content is fluid and will grow to fill the screen size as it increases. Two media queries will be required to adjust the layout on wider screens. At the larger screen width, the content will no longer be fluid (stretching edge to edge) and will instead be contained in a centered, fixed width container.
 
 For any clarification or questions, please ask your instructor.
+
+
+## Submission Details:
+Push the assignment files to the GitHub Classroom assignment before the due date.
 
